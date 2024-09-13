@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+vectorestore
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+.ven/
+
+
